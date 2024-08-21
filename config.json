@@ -1,0 +1,12 @@
+{
+  "logging": {
+    "log_path": "app.log"
+  },
+  "csv": {
+    "file_path": "data.csv"
+  },
+  "app": {
+    "thread_size": 10,
+    "queue_size": 10
+  }
+}

@@ -1,0 +1,40 @@
+2024-08-21 17:51:16,283 - INFO - Starting Flask application.
+2024-08-21 17:51:22,412 - DEBUG - Rendering home page.
+2024-08-21 17:51:35,160 - DEBUG - Received request to read record with rollno 1
+2024-08-21 17:51:35,160 - DEBUG - Entering read_csv function.
+2024-08-21 17:51:35,160 - INFO - Attempting to open file data.csv for reading.
+2024-08-21 17:51:35,160 - INFO - File data.csv read successfully.
+2024-08-21 17:51:35,160 - INFO - Record with rollo 1 found
+2024-08-21 17:52:11,433 - DEBUG - Entering read_csv function.
+2024-08-21 17:52:11,433 - INFO - Attempting to open file data.csv for reading.
+2024-08-21 17:52:11,433 - INFO - File data.csv read successfully.
+2024-08-21 17:52:11,435 - DEBUG - Entering write_csv function.
+2024-08-21 17:52:11,435 - INFO - Attempting to open file data.csv for writing.
+2024-08-21 17:52:11,435 - INFO - File data.csv written successfully.
+2024-08-21 17:52:11,435 - INFO - Record with Rollno 14 added successfully.
+2024-08-21 17:52:24,069 - INFO - Received request to update record with Rollno 1
+2024-08-21 17:52:24,082 - INFO - Updating record with Rollno: 1
+2024-08-21 17:52:24,082 - DEBUG - Entering read_csv function.
+2024-08-21 17:52:24,082 - INFO - Attempting to open file data.csv for reading.
+2024-08-21 17:52:24,082 - INFO - File data.csv read successfully.
+2024-08-21 17:52:24,084 - DEBUG - Entering write_csv function.
+2024-08-21 17:52:24,084 - INFO - Attempting to open file data.csv for writing.
+2024-08-21 17:52:24,084 - INFO - File data.csv written successfully.
+2024-08-21 17:52:24,084 - INFO - Record with Rollno 1 updated successfully.
+2024-08-21 17:52:24,084 - INFO - Record with Rollno 1 updated successfully
+2024-08-21 17:52:37,485 - INFO - Received request to delete record with Rollno: 14
+2024-08-21 17:52:37,488 - INFO - Deleting record with Rollno: 14
+2024-08-21 17:52:37,488 - DEBUG - Entering read_csv function.
+2024-08-21 17:52:37,488 - INFO - Attempting to open file data.csv for reading.
+2024-08-21 17:52:37,488 - INFO - File data.csv read successfully.
+2024-08-21 17:52:37,488 - DEBUG - Entering write_csv function.
+2024-08-21 17:52:37,488 - INFO - Attempting to open file data.csv for writing.
+2024-08-21 17:52:37,490 - INFO - File data.csv written successfully.
+2024-08-21 17:52:37,490 - INFO - Record with Rollno 14 deleted successfully.
+2024-08-21 17:52:37,492 - INFO - Record with Rollno 14 deleted successfully.
+2024-08-21 17:52:41,677 - DEBUG - Rendering home page.
+2024-08-21 17:52:42,823 - INFO - Received request to calculate average scores.
+2024-08-21 17:52:42,823 - DEBUG - Entering read_csv function.
+2024-08-21 17:52:42,823 - INFO - Attempting to open file data.csv for reading.
+2024-08-21 17:52:42,823 - INFO - File data.csv read successfully.
+2024-08-21 17:52:42,825 - INFO - Average scores calculated successfully
